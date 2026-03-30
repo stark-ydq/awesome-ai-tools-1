@@ -39,11 +39,15 @@ This list is a dynamic resource, constantly updated to capture the latest in the
 - **Independence:** This is an independent, community project. We are not affiliated with, sponsored by, or endorsing any of the tools listed.
 - **Accuracy:** The AI world moves incredibly fast! While we strive for accuracy, links can break and information (like free student campaigns) can become outdated. Please verify details on the official sites.
 - **Due Diligence:** This list contains a mix of consumer and enterprise tools. We have not tested every tool. You are advised to conduct your own research and use these tools at your own discretion.
-  > **Ready to contribute?**
+> **Ready to contribute?**
 
-> Before you do, **please take a moment to read our [Contribution Guidelines](./CONTRIBUTING.md).** This helps us keep the list consistent and saves everyone time.
+> Before you do, please take a moment to read our [Contribution Guidelines](./CONTRIBUTING.md).  
+> This helps keep the list consistent and saves everyone time.
 
-Found a broken link or an amazing new tool we missed? We'd love your help! Please feel free to [open an issue](https://github.com/eudk/awesome-ai-tools/issues) or [submit a pull request](https://github.com/eudk/awesome-ai-tools/pulls).
+> **Note:** The repository is currently undergoing a quality review and cleanup phase.  
+> Submissions are still welcome, but may be reviewed more selectively, and low-effort or duplicate pull requests may be closed.
+
+Found a broken link or an amazing new tool we missed? Feel free to [open an issue](https://github.com/eudk/awesome-ai-tools/issues) or [submit a pull request](https://github.com/eudk/awesome-ai-tools/pulls).
 
 <a name="top"></a>
 
@@ -62,6 +66,7 @@ Found a broken link or an amazing new tool we missed? We'd love your help! Pleas
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [👑 The Big Players: Foundational Models](#-the-big-players-foundational-models)  | In-depth look at the titans of AI: OpenAI, Google, Anthropic, Meta & Mistral. |
 | [🇨🇳 Leading Chinese AI Models](#-leading-chinese-ai-models)                       | Powerful and popular large language models from China.                        |
+| [🪦 AI Graveyard](./AI_GRAVEYARD.md) | Discontinued, retired, or replaced AI tools and models |
 | [🦞 OpenClaw Ecosystem](#-openclaw-ecosystem) | OpenClaw, ZeroClaw and related autonomous AI agent frameworks. |
 | [🎓 Free Stuff for Students & Educators](#-free-stuff-for-students--educators)    | Free access to professional-grade tools, software, and cloud credits.         |
 | [🚀 New and Emerging AI Tools](#-new-and-emerging-ai-tools)                       | The latest AI tools gaining popularity and traction in the industry.          |
@@ -261,6 +266,18 @@ This section showcases the most prominent and powerful large language models dev
 
 ---
 
+
+## 🪦 AI Graveyard
+
+Not every AI product survives.
+
+The ecosystem evolves quickly, and many tools, models, and experiments are discontinued, rebranded, or replaced within a short time.
+
+A curated list of discontinued AI products and features is available here:
+
+👉 [View the AI Graveyard](./AI_GRAVEYARD.md)
+
+---
 ## 🎓 Free Stuff for Students & Educators
 
 > This section is dedicated to the amazing free resources, software, and cloud credits available to verified students and educators. These packs provide access to professional-grade tools that would otherwise be very expensive. Not affiliated or sponsored by any of them. some campaigns might have ended
@@ -407,6 +424,7 @@ This section introduces the latest AI tools that are gaining popularity and have
 - **[RankingRider](https://www.rankingrider.com)** - AI-powered bulk SEO optimization for Shopify products via CSV.
 - **[LLM Optimizer](https://llmopt.metavert.io)** - AI brand visibility tool (like SEO for LLMs, or GEO). Measures how ChatGPT, Claude, Gemini, and Perplexity cite and recommend your brand with composite AI Visibility Scores, per-dimension analysis, and prioritized optimization recommendations.
 - **[GEOScore](https://geoscoreai.com)** - AI search visibility scanner that checks how your website performs in AI search engines (ChatGPT, Perplexity, Gemini). Runs 11 technical checks for generative engine optimization (GEO).
+- Cited By AI® - Block-level AI citation auditing platform using the Citation Probability Score® (CPS®) framework. Scores content across 5 pillars to predict citation probability in ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews. Free CPS® Lite checker via MCP. - [citedbyai.info](https://citedbyai.info)
 - **[DoaCam](https://doacam.com)** - AI video companion with a 3D avatar that sees you through your camera, talks in real time, and remembers every conversation. Runs in browser.
 - **[AgentReady](https://agentready.site)** - AI readiness scanner that scores any website on 8 factors (llms.txt, ai.txt, schema markup, MCP protocol, bot accessibility, and more). Provides actionable recommendations, industry benchmarks, and a free public API for AI agent compatibility scoring.
 - **[KeepRule](https://keeprule.com)** - AI-powered investment discipline platform that tracks principles from 26 legendary investors including Buffett, Munger, and Dalio. Features scenario analysis, psychological tests, and personalized investment coaching.
@@ -544,6 +562,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [bugfree.ai](https://bugfree.ai/) - bugfree.ai is an advanced AI-powered platform designed to practice and prepare for system design and behavioral interviews.
 - [manifest.build](https://manifest.build/) - The backend AI can generate, developers can trust!
 - [Learnly AI](https://learnlyai.co.uk/) - AI-powered academic assistant for students with note-taking, essay writing, and presentation generation.
+- [Domain Generator](https://freedomaingenerator.com/) - Free AI domain generator with availability check and price comparison
 
 ---
 ## 🦞 OpenClaw Ecosystem
@@ -594,6 +613,7 @@ OpenClaw is an open-source personal AI assistant/agent that can run locally and 
 - [Otter.ai](https://otter.ai/) - AI-Powered Note Taking
 - [Monday.com](https://monday.com/) - Work Operating System
 - [RescueTime](https://www.rescuetime.com/) - Time Management
+- [Kitmul](https://kitmul.com) - 100+ Free AI-Powered Browser Tools (PDF, Image, Video, Text, Developer utilities). Privacy-first, no signup required.
 - [Todoist](https://todoist.com/) - Task Management
 - [WritBase](https://github.com/Writbase/writbase) - AI Agent Task Management
 - [Grammarly](https://www.grammarly.com/) - Writing Assistant
@@ -609,6 +629,7 @@ OpenClaw is an open-source personal AI assistant/agent that can run locally and 
 - [CLAUDE.md Writer](https://helloandy.net/claude-md-writer/) – AI-powered generator for Claude agent system prompts using a 3-step OpenRouter pipeline
 - [SocialBu](https://socialbu.com/) – AI-powered social media management platform for scheduling, publishing, monitoring, and automating across X, Instagram, LinkedIn, Facebook, TikTok, and more
 - [AI for Database](https://aifordatabase.com) – Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.
+- [LocalePack](https://localepack.app/) - AI-powered locale file translator for browser extensions, Next.js, i18next, and vue-i18n. Translates into 52 languages with placeholders and nested structure preserved. Pay once, no subscription.
 - [AgentDesk](https://agentdesk-inky.vercel.app) - Pre-built AI agents for professional services firms. Automates client intake, proposal generation, and executive reports using Claude.
 
 ---
@@ -925,7 +946,7 @@ This list includes a range of tools for AI-powered video generation, offering ca
 - [Fliki](https://fliki.ai) - Turn text to speech videos.
 - [Hour One](https://www.hourone.ai) - AI characters for video generation.
 - [InVideo](https://invideo.io) - Online video creator with AI.
-- [Rosebud AI](https://rosebud.ai) - Generate AI avatars for videos.
+- [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 - [AI Video Maker](https://www.animaker.com/ai-video-maker) - Animaker’s AI video maker.
 - [Vimeo Create](https://vimeo.com/create) - AI-driven video creation.
 - [Murf](https://murf.ai) - AI Voiceover & text to speech for videos.
